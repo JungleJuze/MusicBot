@@ -1,13 +1,8 @@
 www..gyan.dev/ffmpeg
 bin folder. rename
 
-
-
-
-
-windows:
+windows os:
 add ffmpeg to environment variables
-
 
 pip install --upgrade asyncio
 pip install --upgrade yt-dlp
