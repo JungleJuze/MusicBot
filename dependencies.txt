@@ -1,0 +1,15 @@
+www..gyan.dev/ffmpeg
+bin folder. rename
+
+windows:
+add ffmpeg to environment variables
+
+
+pip install --upgrade asyncio
+pip install --upgrade yt-dlp
+pip install --upgrade python-dotenv
+
+
+
+
+
