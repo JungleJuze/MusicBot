@@ -1,6 +1,10 @@
 www..gyan.dev/ffmpeg
 bin folder. rename
 
+
+
+
+
 windows:
 add ffmpeg to environment variables
 
